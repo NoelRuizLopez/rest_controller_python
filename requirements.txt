@@ -1,0 +1,6 @@
+#Dependencies
+flask
+functools32
+daemon
+logging
+config

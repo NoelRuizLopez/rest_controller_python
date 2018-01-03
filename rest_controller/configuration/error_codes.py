@@ -1,0 +1,17 @@
+'''
+Created on 1 de dic. de 2016
+
+@author: Noel Ruiz.Altran
+'''
+'''OK Codes'''
+CODE_GET_OK = 200
+CODE_PUT_OK = 200
+CODE_POST_OK = 201
+CODE_DELETE_OK = 204
+
+'''KO Codes'''
+CODE_BAD_REQ_ERROR = 400
+CODE_NOT_ALLOWED = 405
+CODE_CONFLICT = 409
+CODE_NOT_FOUND = 404
+CODE_SERVER_ERROR = 500
