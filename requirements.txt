@@ -4,3 +4,4 @@ functools32
 daemon
 logging
 config
+requests
